@@ -59,24 +59,8 @@ app/
 └── lib/                # Database utilities and data fetching
 ```
 
-## 🚀 Getting Started
+<img width="964" height="722" alt="image" src="https://github.com/user-attachments/assets/198a7ff6-80ad-47e1-ab9d-e507b256df03" />
 
-1. **Install dependencies**:
-   ```bash
-   pnpm install
-   ```
-
-2. **Set up your database**:
-   - Configure PostgreSQL connection
-   - Set `POSTGRES_URL` environment variable
-
-3. **Run the development server**:
-   ```bash
-   pnpm dev
-   ```
-
-4. **Open your browser**:
-   Navigate to [http://localhost:3000](http://localhost:3000)
 
 ## 📚 Learning Resources
 
